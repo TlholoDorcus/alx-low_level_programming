@@ -8,9 +8,10 @@
  */
 int main(void)
 { 
-    char c[8] = "_putchar";
-    _putchar(c[8]);
-    printf("%s",c);
-    printf("\n");
-    return (0);
+char c[8] = "_putchar";
+
+_putchar(c[8]);
+printf("%s", c);
+printf("\n");
+return (0);
 }
