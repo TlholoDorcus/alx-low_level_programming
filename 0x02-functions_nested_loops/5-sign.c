@@ -3,8 +3,9 @@
 /**
  * print_sign - checks the sign of an integer
  * @n: The integer to check
+ * @c: Print sign
  *
- * Return: 1 and prints + if n>0,0 and prints 0 if n=0,-1 and prints - if n<0.
+ * Return: 1 when greater than 0.
  */
 int _putchar(char c);
 
