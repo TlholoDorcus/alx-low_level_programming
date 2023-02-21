@@ -1,18 +1,19 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * print_alphabet - writes the alphabet lettters
  *
- * Return: Always 0 (Success)
+ * Return: nothing.
  */
 void print_alphabet(void)
 {
-    int x = 'a';
-    while (x <= 'z')
-    {
-    putchar(x);
-    x ++;
-    }
-    putchar('\n');
-    return;
+int x = 'a';
+
+while(x <= 'z')
+{
+putchar(x);
+x++;
+}
+putchar('\n');
+return;
 }
