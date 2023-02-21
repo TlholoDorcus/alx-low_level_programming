@@ -3,6 +3,7 @@
 
 /**
  * _islower - checks whether alphabet is lower case or not
+ * @c: The integer to check
  *
  * Return: 1 for yes and 0 for no.
  */
@@ -16,5 +17,5 @@ x = 1;
 if (islower(c) == 0)
 x = 0;
 
-return(x);
+return (x);
 }
