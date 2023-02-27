@@ -12,7 +12,7 @@ void puts_half(char *str)
 int i;
 int length = strlen(str);
 int halfIndex = length / 2;
-  
+
 if (length % 2 == 0)
 {
 for (i = halfIndex; i < length; i++)
@@ -20,7 +20,7 @@ for (i = halfIndex; i < length; i++)
 printf("%c", str[i]);
 }
 }
-else 
+else
 {
 halfIndex = (length - 1) / 2;
 for (i = halfIndex; i < length; i++)
