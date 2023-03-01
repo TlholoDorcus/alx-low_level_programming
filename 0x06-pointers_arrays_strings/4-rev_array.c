@@ -4,7 +4,7 @@
 /**
  * reverse_array - reverses a string
  * @a: output string
- * @n:number of elements
+ * @n: number of elements
  *
  * Return: nothing
  */
