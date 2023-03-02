@@ -4,7 +4,7 @@
 
 /**
  * *string_toupper - returns upper case
- * @*c: string passed in
+ * @*a: string passed in
  *
  * Return: uppercase characters
  */
