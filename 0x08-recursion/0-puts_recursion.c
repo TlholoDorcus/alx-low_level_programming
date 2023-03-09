@@ -3,9 +3,9 @@
 
 /**
  * _puts_recursion - prints a string and a new line
- * @c: parameter string
+ * @s: parameter string
  *
- * return: 1 for success
+ * return: nothing
  *
  */
 void _puts_recursion(char *s)
