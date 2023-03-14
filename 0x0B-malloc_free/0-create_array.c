@@ -4,7 +4,8 @@
 
 /**
  * *create_array- creates an array of chars
- * @size * sizeof(char) - parameter passed
+ * @size - parameter passed
+ * @c - parameter passed
  *
  * Return: NULL of fails and array if pass
  */
