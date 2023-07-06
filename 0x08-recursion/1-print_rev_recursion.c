@@ -3,8 +3,8 @@
 #include "main.h"
 
 /**
- * _print_rev_recursion -  prints string in reverse
- * @s - parameter passed
+ * _print_rev_recursion- function prints string in reverse
+ * @s: string parameter passed
  *
  * Return: nothing.
  */
