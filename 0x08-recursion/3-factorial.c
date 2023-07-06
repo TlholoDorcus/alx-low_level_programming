@@ -2,7 +2,7 @@
 
 /**
  * factorial - function gives the factorial of a number
- * @n - the inetgerparameter that is given
+ * @n: the inetgerparameter that is given
  *
  * Return: -1 if n is lower than 0.
  * the factorial of a number.
