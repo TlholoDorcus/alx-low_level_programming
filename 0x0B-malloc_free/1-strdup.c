@@ -17,7 +17,8 @@ length = strlen(str);
 copy = malloc((length + 1) * sizeof(char));
 if (str == NULL)
 {
-str = malloc(length * sizeof(char));
+str = malloc(length *sizeof(char));
+str[0] = 'H';
 }
 if (copy == NULL)
 {
