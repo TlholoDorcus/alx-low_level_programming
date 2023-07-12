@@ -19,6 +19,10 @@ if (copy == NULL)
 {
 return ('\0');
 }
+if (str == NULL)
+{
+return ('\0');
+}
 strcpy(copy, str);
 return (copy);
 }
